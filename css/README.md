@@ -1,0 +1,10 @@
+<h1>Hotel Website</h1>
+
+This project is about a interface of movieapp, it is static web site so it is included Html and Css code
+
+> You can visit at that link:
+> [HOTEL](https://hotelprojemmuratkaplan.netlify.app)
+
+| NAME         | E-mail                      |
+| ------------ | --------------------------- |
+| Murat Kaplan | muratkaplan061989@gmail.com |
